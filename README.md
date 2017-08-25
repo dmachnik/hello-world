@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hey bros
+This is me updating the default readme.
